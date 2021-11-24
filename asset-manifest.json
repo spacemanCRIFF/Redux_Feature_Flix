@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Redux_Feature_Flix/static/css/main.2ee2d864.chunk.css",
+    "main.js": "/Redux_Feature_Flix/static/js/main.669d1400.chunk.js",
+    "main.js.map": "/Redux_Feature_Flix/static/js/main.669d1400.chunk.js.map",
+    "runtime-main.js": "/Redux_Feature_Flix/static/js/runtime-main.9acf1fde.js",
+    "runtime-main.js.map": "/Redux_Feature_Flix/static/js/runtime-main.9acf1fde.js.map",
+    "static/js/2.dcbd9f2f.chunk.js": "/Redux_Feature_Flix/static/js/2.dcbd9f2f.chunk.js",
+    "static/js/2.dcbd9f2f.chunk.js.map": "/Redux_Feature_Flix/static/js/2.dcbd9f2f.chunk.js.map",
+    "index.html": "/Redux_Feature_Flix/index.html",
+    "static/css/main.2ee2d864.chunk.css.map": "/Redux_Feature_Flix/static/css/main.2ee2d864.chunk.css.map",
+    "static/js/2.dcbd9f2f.chunk.js.LICENSE.txt": "/Redux_Feature_Flix/static/js/2.dcbd9f2f.chunk.js.LICENSE.txt",
+    "static/media/user.109eb920.png": "/Redux_Feature_Flix/static/media/user.109eb920.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9acf1fde.js",
+    "static/js/2.dcbd9f2f.chunk.js",
+    "static/css/main.2ee2d864.chunk.css",
+    "static/js/main.669d1400.chunk.js"
+  ]
+}
